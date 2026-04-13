@@ -9,7 +9,7 @@
       "action_label": null,
       "title": null,
       "body_html": null,
-      "usage_notes": "id: enter a unique string, never reuse. platform: android|ios|null=all. min/max_app_version: semver or null. title+body_html: both required, body is basic html tags. action_url+action_label: both required for button. Seen per-device by id"
+      "usage_notes": "id: a unique string, never reuse. platform: android|ios|null=all. min/max_app_version: semver or null. title+body_html: both required, body is basic html tags. action_url+action_label: both required for button. Seen per-device by id"
     }    
   ]
 }
