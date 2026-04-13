@@ -1,0 +1,40 @@
+{
+  "manifest_version": 1,
+  "updated_at": "2026-04-10T12:00:00Z",
+  "mushafs": [
+    {
+      "id": "indopak13",
+      "name": "IndoPak - 13 Line",
+      "tajweed": true,
+      "description": "Colour coded tajweed with 13 lines per page, in the indo-pak script",
+      "preview_image": "assets/mushafs/indopaktajweed.webp",
+      "versions": [
+        {
+          "asset_version": 1,
+          "app_version_min": null,
+          "app_version_max": null,
+          "asset_url": "https://cdn.lucentquran.com/lucentquran_indopak.zip",
+          "asset_size_bytes": 88500731,
+          "checksum_sha256": "B3D39363071BB3E2913422A53B854ED1702F931A5253AF8FB23679A6E8B1F26D"
+        }
+      ]
+    },
+    {
+      "id": "uthmani15",
+      "name": "Madani/Uthmani - 15 Line",
+      "tajweed": true,
+      "description": "Colour coded tajweed with 15 lines per page, in the uthmani script",
+      "preview_image": "assets/mushafs/uthmanitajweed.webp",
+      "versions": [
+        {
+          "asset_version": 1,
+          "app_version_min": null,
+          "app_version_max": null,
+          "asset_url": "https://cdn.lucentquran.com/lucentquran_uthmani.zip",
+          "asset_size_bytes": 119013574,
+          "checksum_sha256": "DD6550A10F6D3C341638F572100BB697765800F3CCE51A572B1560DF191B8202"
+        }
+      ]
+    }
+  ]
+}
