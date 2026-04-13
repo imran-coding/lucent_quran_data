@@ -1,14 +1,14 @@
 {
   "messages": [
     {
-      "id": "20260412_android",
+      "id": "20260412.4_android",
       "platform": "android",
       "min_app_version": null,
       "max_app_version": null,
       "action_url": null,
       "action_label": null,
-      "title": null,
-      "body_html": null,
+      "title": "Welcome",
+      "body_html": "Welcome to Lucent Quran",
       "usage_notes": "id: this is a unique string, never reuse. platform: android|ios|null=all. min/max_app_version: semver or null. title+body_html: both required, body is basic html tags. action_url+action_label: both required for button. Seen per-device by id"
     }    
   ]
